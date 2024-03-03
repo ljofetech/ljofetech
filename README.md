@@ -2,7 +2,9 @@
 
 Debugging the Universe... one '404 Not Found' at a time!
 
-Looking for a job, but in the meantime, I'm debugging life! Embrace the process, laugh at the bugs, and keep coding your way to success! (～￣▽￣)～
+Looking for a job, but in the meantime, I'm debugging life!
+
+Embrace the process, laugh at the bugs, and keep coding your way to success! (～￣▽￣)～
 
 <!--
 **StudentFPW/StudentFPW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
