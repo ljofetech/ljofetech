@@ -8,6 +8,7 @@ Embrace the process, laugh at the bugs, and keep coding your way to success! (�
 
 ### ⚙️ GitHub statistics:
 
+<a name="readme-top"></a>
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
