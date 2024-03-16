@@ -20,7 +20,7 @@ Embrace the process, laugh at the bugs, and keep coding your way to success! (ï½
 </table>
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="./github-snake.svg" alt="snake"/>
 </p>
 
 <!--
