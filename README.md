@@ -1,19 +1,15 @@
+
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Hi there 👋</b>
-<em><b>
-Debugging the Universe... one '404 Not Found' at a time!
-Looking for a job, but in the meantime, I'm debugging life!
-Embrace the process, laugh at the bugs, and keep coding your way to success! (～￣▽￣)～
-</b>😃</em>
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
+  <em>
+    <b>
+      Debugging the Universe... one '404 Not Found' at a time!
+      Looking for a job, but in the meantime, I'm debugging life!
+      Embrace the process, laugh at the bugs, and keep coding your way to success! (～￣▽￣)～
+    </b>
+  </em>
 </div>
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Hi there 👋</b>
-<em><b>
-Debugging the Universe... one '404 Not Found' at a time!
-Looking for a job, but in the meantime, I'm debugging life!
-Embrace the process, laugh at the bugs, and keep coding your way to success! (～￣▽￣)～
-</b>😃</em>
+
 <br>
 
 ### ⚙️ GitHub statistics:
