@@ -4,9 +4,9 @@
 
 </div>
 
-### ⚙️ GitHub statistics:
+<!-- ### ⚙️ GitHub statistics: -->
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ljofetech&theme=dark&background=000000" alt="webDev's Github stats" />
@@ -15,9 +15,9 @@
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ljofetech&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
-</table>
+</table> -->
 
-### ⚙️ Languages and Tools:
+<!-- ### ⚙️ Languages and Tools:
 
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
@@ -42,4 +42,4 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
+</p>  -->
